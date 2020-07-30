@@ -1,2 +1,1 @@
-# REACT_LEARNING
-REACT_LEARNING
+mosh React course
